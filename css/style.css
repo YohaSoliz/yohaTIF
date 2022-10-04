@@ -1,7 +1,5 @@
 #botonverde{color: #25a342;}
 
-.carousel-item {filter:brightness(50%)}
-
 #tarjetas
 {
     width: 75%;
@@ -11,3 +9,13 @@
 {
     width: 55%;
 }
+
+#footer
+{
+    background: #1D3744;
+    background: -webkit-linear-gradient(left, #1D3744, #205371);
+    background: -moz-linear-gradient(left, #1D3744, #205371);
+    background: linear-gradient(to right, #1D3744, #205371);
+    color: white;
+}
+
